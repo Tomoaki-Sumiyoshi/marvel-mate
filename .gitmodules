@@ -1,0 +1,6 @@
+[submodule "marvel-mates-front"]
+	path = marvel-mates-front
+	url = git@github.com:Tomoaki-Sumiyoshi/marvel-mates-front.git
+[submodule "marvel-mates-back"]
+	path = marvel-mates-back
+	url = git@github.com:Tomoaki-Sumiyoshi/marvel-mates-back.git
